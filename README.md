@@ -34,7 +34,7 @@ pipenv run python server.py
 curl http://127.0.0.1:5042/connpass/titles
 
 # try request with search query
-curl http://127.0.0.1:5042/connpass/titles?series_id=3109
+curl http://127.0.0.1:5042/connpass/titles\?series_id\=3109
 ```
 
 [APIリファレンス - connpass](https://connpass.com/about/api/)
