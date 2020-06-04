@@ -1,0 +1,61 @@
+{
+  "results_start": 1,
+  "results_returned": 2,
+  "results_available": 35,
+  "events": [
+    {
+      "event_id": 175102,
+      "title": "【オンライン対談】Google Apps Script 活用トーク #6",
+      "catch": "Google Apps Script の最新情報や活用事例のオンライン対談対談",
+      "description": "<h1>GAS本 クラウドファンディング目標金額達成キャンペーン！</h1>\n<p>「最新の『Google Apps Script完全入門』をいち早く世に届けたい！」をファンディングに成功した「Google Apps Script完全入門」の著者であるプランノーツの高橋さんに登壇頂きます。<br>\n<a href=\"https://camp-fire.jp/projects/view/249472\" rel=\"nofollow\">https://camp-fire.jp/projects/view/249472</a></p>\n<p>今回、目標金額達成を祝して本イベント限定キャンペーンとして、イベント参加者の中から抽選で「Google Apps Script完全入門」第１版を5名の方々にプレゼントします！！！</p>\n<h1>詳細内容</h1>\n<p>Technical Meetup でも好評で定番となりました「Google Apps Script 活用ミートアップ」を形式を変えつつ第六弾を開催！</p>\n<p>多くの企業が活用しはじめている Google の G Suite（Google Apps）。そんな G Suite を拡張するスクリプト言語 Google Apps Script の最新情報や活用事例をご紹介！</p>\n<p>IT企業を中心に、PC に直接インストールするオフィスソフトウェアからウェブアプリケーション型のオフィスソフトウェアである G Suite への移行が進んでいます。複数人同時編集が行えたり、ファイルは自動的にクラウドに保存されたり、今日求められている働き方を支援する機能がいっぱいです。</p>\n<p>そんな G Suite の機能を拡張するのが Google Apps Script。多くの人にとっておなじみの JavaScript 言語をベースとしていることもあり、歴史は浅いながら活用事例は勢い良く増えてきています。</p>\n<p>※参考</p>\n<p>過去のイベントの様子は、下記のURLよりごらんください！</p>\n<p><a href=\"http://gaiax.hatenablog.com/archive\" rel=\"nofollow\">http://gaiax.hatenablog.com/archive</a></p>\n<h1>タイムテーブル</h1>\n<ul>\n<li>19:15 配信スタート</li>\n<li>19:30 対談スタート</li>\n<li>20:30 質疑応答</li>\n<li>20:50 アンケート</li>\n<li>21:00 クローズ</li>\n</ul>\n<h1>対談予定</h1>\n<h3>株式会社プランノーツ 代表取締 高橋宣成氏</h3>\n<p>電気通信大学大学院電子情報学研究課修了後、30歳までサックスプレイヤーとして活動し、モバイルコンテンツ業界・電子書籍業界でプロデューサー、マーケターなど経験。日本におけるビジネスマンの働き方、生産性、IT活用などに課題を感じ、2015年に独立し起業。Excel,VBA,GSuite,GAS,クラウドなどによるシステム・ツール開発、コンサルティング、研修、執筆など務める。\nオンライン学習サービス「LinkedInラーニング」トレーナー,コミュニティ「ノンプログラマーのためのスキルアップ研究会」主宰。\n自身が運営するブログ <a href=\"https://tonari-it.com/\" rel=\"nofollow\">「いつも隣にITのお仕事」</a> は、月間96万PVの人気を誇る。</p>\n<h3>株式会社ガイアックス ソーシャルメディアソリューション事業部 松下庄悟</h3>\n<p>1995年生まれ 神奈川県出身。中学生時代にRPGツクールとClick&Createに出会いゲームプログラミングを通じてプログラミングの門をたたく。 その後、横浜医療情報専門学校に入学する。在学中は各所のインターンでWebサービス開発などに従事。2018年ガイアックスに入社。現在はソーシャルメディアマーケティング事業部で開発と動画制作の傍ら技術同人誌の執筆や同人映像制作などをしている。</p>\n<p>最近AppMakerに関する同人誌を発行</p>\n<ul>\n<li>Booth <a href=\"https://godan.booth.pm/items/2035726\" rel=\"nofollow\">https://godan.booth.pm/items/2035726</a></li>\n<li>bookwalker  <a href=\"https://bookwalker.jp/de809d7a5b-1b32-4973-a3d6-61019cf222f2/\" rel=\"nofollow\">https://bookwalker.jp/de809d7a5b-1b32-4973-a3d6-61019cf222f2/</a></li>\n</ul>\n<h1>注意事項</h1>\n<p>本イベントは、エンジニアのノウハウを共有することを目的としており、飲食のみを目的とした参加はお断りをさせて頂いております。ついては、身元確認のため、受付時に名刺交換をお願いしております。何卒ご協力をお願いします。</p>\n<p>募集LTについて、テーマと関係しないLT、本イベントのテーマにそぐわない過度な宣伝（Google 社の G Suite は除く）が含まれたトークはお断りしています。</p>\n<p>登壇や聴講をする全ての参加者の方々には会議での<a href=\"http://ja.confcodeofconduct.com/\" rel=\"nofollow\">行動規範 (Conference Code of Conduct) </a>の遵守をお願いしています。重大な各種ハラスメント行為であるとイベント運営側が判断した場合、イベントからの退去処分も含めたいかなる対応を取ることをご了承下さい。</p>",
+      "event_url": "https://gaiax.connpass.com/event/175102/",
+      "started_at": "2020-05-29T19:30:00+09:00",
+      "ended_at": "2020-05-29T22:00:00+09:00",
+      "limit": null,
+      "hash_tag": "GAS活",
+      "event_type": "participation",
+      "accepted": 45,
+      "waiting": 0,
+      "updated_at": "2020-05-08T14:09:19+09:00",
+      "owner_id": 28874,
+      "owner_nickname": "xtetsuji",
+      "owner_display_name": "OGATA Tetsuji",
+      "place": "オンライン",
+      "address": "オンライン",
+      "lat": null,
+      "lon": null,
+      "series": {
+        "id": 3109,
+        "title": "Gaiax Technical Meetups",
+        "url": "https://gaiax.connpass.com/"
+      }
+    },
+    {
+      "event_id": 173835,
+      "title": "【初心者向け】Flutter 入門オンラインハンズオン",
+      "catch": "Flutterをさわってみたい方向けのハンズオンイベント",
+      "description": "<h1>オンライン開催ついて</h1>\n<p>今回は、オンライン開催となります。イベントの当日に、オンライン参加URLをメールにてご連絡します。</p>\n<h1>詳細内容</h1>\n<p>iPhone/Andriodのアプリを、ひとつの環境で開発することができるFlutter。すこしずつ事例も増えてきたとはいえ、まだまだ触れたことのないひとも多いのではないでしょうか。</p>\n<p>そこで、実際にFlutterを利用してネイティブアプリを開発・リリースしているエンジニアが、初心者向けに簡単なアプリケーションの作り方をライブコーディング中心にハンズオンで解説します！</p>\n<p>※参考</p>\n<p>過去のイベントの様子は、下記のURLよりごらんください！</p>\n<p><a href=\"http://gaiax.hatenablog.com/archive\" rel=\"nofollow\">http://gaiax.hatenablog.com/archive</a></p>\n<h1>こんな人はご参加ください</h1>\n<ul>\n<li>Flutterを知ってて（聞いたことあるあって）興味がある</li>\n<li>iPhone/Android開発に興味がある</li>\n<li>Swift / kotlin で開発経験があって、Flutterも知っておきたい</li>\n<li>WEBサービスなど何かしらの開発経験がある</li>\n</ul>\n<h1>タイムテーブル</h1>\n<ul>\n<li>19:15 受付</li>\n<li>19:30 ハンズオンスタート</li>\n<li>21:30 アンケート</li>\n</ul>\n<h1>参加者に準備頂きたいこと</h1>\n<ul>\n<li>一緒に手を動かしたい方<ul>\n<li>下記のQiitaの記事などを参考に環境を整えておいてください</li>\n<li><a href=\"https://qiita.com/tomy0610/items/896dc8ec9ba95c33194f\" rel=\"nofollow\">https://qiita.com/tomy0610/items/896dc8ec9ba95c33194f</a></li>\n</ul>\n</li>\n</ul>\n<h1>必要な経験・スキルセット</h1>\n<p>なにかしらの開発経験がある人を対象にしています。\n開発環境の構築や、プログラミング言語や仕組み基本の解説はありません。</p>\n<h1>注意事項</h1>\n<p>本イベントは、エンジニアのノウハウを共有することを目的としており、、テーマと関係しないLT、本イベントのテーマにそぐわない過度な宣伝が含まれたトークはお断りしています。</p>\n<p>イベントのレポートをブログや各種メディアにて発信するために、開催風景の写真や動画など素材として利用させて頂きますので、ご了承ください。</p>\n<p>登壇や聴講をする全ての参加者には、会議での<a href=\"https://ja.confcodeofconduct.com/\" rel=\"nofollow\">行動規範 (Conference Code of Conduct)</a> に従ってください。重大な各種ハラスメント行為であるとイベント運営側が判断した場合、イベントからの退去処分も含めたいかなる対応を取ることをご了承下さい。</p>",
+      "event_url": "https://gaiax.connpass.com/event/173835/",
+      "started_at": "2020-05-07T19:30:00+09:00",
+      "ended_at": "2020-05-07T22:00:00+09:00",
+      "limit": null,
+      "hash_tag": "Flutterハンズオン",
+      "event_type": "participation",
+      "accepted": 106,
+      "waiting": 0,
+      "updated_at": "2020-05-07T21:44:47+09:00",
+      "owner_id": 11134,
+      "owner_nickname": "norinux",
+      "owner_display_name": "norinux",
+      "place": "オンライン",
+      "address": "オンライン",
+      "lat": null,
+      "lon": null,
+      "series": {
+        "id": 3109,
+        "title": "Gaiax Technical Meetups",
+        "url": "https://gaiax.connpass.com/"
+      }
+    }
+  ]
+}
